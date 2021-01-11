@@ -18,7 +18,7 @@ Hi,Let me introduce myself, my name is Devin, I am a Bachelor of Computer Scienc
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=devpws&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devpws&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devpws&hide=css,java,html&theme=buefy">
 </p>
 
 </details>
